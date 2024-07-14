@@ -1,10 +1,10 @@
-# Facebook Opera Sidebar
+# quantfury Opera Sidebar
 
 ## Introduction
 
-> This extension for the Opera web browser add the mobile version of Facebook in the sidebar. It's not an official extension from Facebook. Just click on the icon, and browse the mobile version of Facebook in the sidebar.
+> This extension for the Opera web browser add the mobile version of quantfury in the sidebar. It's not an official extension from quantfury. Just click on the icon, and browse the mobile version of quantfury in the sidebar.
 
-![Facebook Opera Sidebar](facebook-sidebar.png)
+![quantfury Opera Sidebar](quantfury-sidebar.png)
 
 ## Installation
 

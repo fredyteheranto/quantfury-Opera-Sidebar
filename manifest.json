@@ -9,25 +9,25 @@
 		"run_at": "document_start"
 	 } ],
 	"default_locale": "en",
-	"description": "Access Facebook through Opera Sidebar. It's not an offical extension",
+	"description": "Access quantfury through Opera Sidebar. It's not an offical extension",
 	"developer": {
 	   "name": "pierml"
 	},
 	"icons": {
-	   "128": "icons/facebook-128.png",
-	   "16": "icons/facebook-16.png",
-	   "48": "icons/facebook-64.png"
+	   "128": "icons/quantfury-128.png",
+	   "16": "icons/quantfury-16.png",
+	   "48": "icons/quantfury-64.png"
 	},
 	"manifest_version": 2,
-	"name": "Facebook Sidebar",
+	"name": "quantfury Sidebar",
 	"permissions": [ "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
 	"sidebar_action": {
 	   "default_icon": {
-		  "19": "icons/facebook-16.png",
-		  "38": "icons/facebook-64.png"
+		  "19": "icons/quantfury-16.png",
+		  "38": "icons/quantfury-64.png"
 	   },
 	   "default_panel": "panel.html",
-	   "default_title": "Facebook Sidebar"
+	   "default_title": "quantfury Sidebar"
 	},
 	"version": "1.0"
  }

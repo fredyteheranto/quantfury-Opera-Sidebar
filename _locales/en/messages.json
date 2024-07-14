@@ -1,14 +1,14 @@
 {
 	"extDescription": {
 	   "description": "Description of extension functionality.",
-	   "message": "Access to Facebook."
+	   "message": "Access to Quantfury."
 	},
 	"extName": {
 	   "description": "Extension name.",
-	   "message": "Facebook Sidebar"
+	   "message": "Quantfury Sidebar"
 	},
 	"extPanelURL": {
 	   "description": "Extension URL.",
-	   "message": "https://mobile.facebook.com/"
+	   "message": "https://trading.quantfury.com/"
 	}
  }

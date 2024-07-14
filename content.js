@@ -1,4 +1,4 @@
-function facebookPatch()
+function quantfuryPatch()
 {
 	// Try to remove the stylesheet in the html code that blocks the page
 
@@ -17,4 +17,4 @@ function facebookPatch()
 	}, 500);
 }
 
-facebookPatch();
+quantfuryPatch();
